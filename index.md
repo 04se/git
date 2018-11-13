@@ -48,6 +48,7 @@ Git 中使用这种哈希值的情况很多，你将经常看到这种哈希值�
 
 # 2.git安装
 ## 2.1 git 安装
+- 参考GotGit[1.3. 安装Git](http://www.worldhello.net/gotgit/01-meet-git/030-installation.html)
 ## 2.2 [gitblit](http://www.gitblit.com)
 - Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.
 It's designed primarily as a tool for small workgroups who want to host centralized repositories.
