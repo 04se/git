@@ -47,12 +47,14 @@ Git 中使用这种哈希值的情况很多，你将经常看到这种哈希值�
 分支|分支是一个完整的目录|随意开辟无限个分支|
 
 # 2.git安装
-
+  
 ## 2.1 git 安装(Linux,Windows,Mac)
 - 参考GotGit[1.3. 安装Git](http://www.worldhello.net/gotgit/01-meet-git/030-installation.html)
+
 ## 2.2 [gitblit](http://www.gitblit.com)
 - Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.
-It's designed primarily as a tool for small workgroups who want to host centralized repositories.
+- It's designed primarily as a tool for small workgroups who want to host centralized repositories.
+
 ## 2.3 [gitlab](https://docs.gitlab.com.cn/)
 - GitLab, a Git-based fully featured platform for software development!
 - GitLab offers the most scalable Git-based fully integrated platform for software development, with flexible products and subscriptions. 
