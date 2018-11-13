@@ -52,13 +52,17 @@ Git 中使用这种哈希值的情况很多，你将经常看到这种哈希值�
 ## 2.2 [gitblit](http://www.gitblit.com)
 - Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.
 It's designed primarily as a tool for small workgroups who want to host centralized repositories.
-
+## 2.3 [gitlab](https://docs.gitlab.com.cn/)
+- 参考[4.8 服务器上的 Git - GitLab](https://git-scm.com/book/zh/v2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84-Git-GitLab)
+ 
 # 3.git使用
 
 # 4.svn迁移至git
 
 # 参考资料
-1.[Git权威指南 — GotGit  ](http://www.worldhello.net/gotgit/#git)
+-- [Git权威指南 — GotGit  ](http://www.worldhello.net/gotgit/#git)
+-- [Pro Git v2](https://git-scm.com/book/zh/v2)
+-- [gitlab中文](https://docs.gitlab.com.cn/)
+-- [Markdown](http://wow.kuapp.com/markdown/)
 
-2.[Pro Git v2](https://git-scm.com/book/zh/v2)
 
