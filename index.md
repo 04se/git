@@ -60,9 +60,9 @@ It's designed primarily as a tool for small workgroups who want to host centrali
 # 4.svn迁移至git
 
 # 参考资料
--- [Git权威指南 — GotGit  ](http://www.worldhello.net/gotgit/#git)
--- [Pro Git v2](https://git-scm.com/book/zh/v2)
--- [gitlab中文](https://docs.gitlab.com.cn/)
--- [Markdown](http://wow.kuapp.com/markdown/)
+   1.[Git权威指南 — GotGit  ](http://www.worldhello.net/gotgit/#git)
+   2.[Pro Git v2](https://git-scm.com/book/zh/v2)
+   3.[gitlab中文](https://docs.gitlab.com.cn/)
+   4.[Markdown](http://wow.kuapp.com/markdown/)
 
 
