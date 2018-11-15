@@ -3,9 +3,9 @@
 ## 1.1 分布式版本控制系统
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
 
-Git(读音为/gɪt/。)是一个开源的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。 
+Git(读音为/gɪt/。)是一个开源的分布式版本控制系统（区别于集中式版本控制系统[svn](http://www.worldhello.net/gotgit/01-meet-git/010-scm-history.html#svn)），可以有效、高速的处理从很小到非常大的项目版本管理。 
 
-GIT不仅仅是个版本控制系统，它也是个内容管理系统(CMS),工作管理系统等。
+GIT不仅仅是个版本控制系统，它也是个**内容管理系统(CMS),工作管理系统**等。
 ## 1.2 git的特性
 > Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows. 
 
@@ -59,6 +59,8 @@ Git 中使用这种哈希值的情况很多，你将经常看到这种哈希值�
 - 参考[4.8 服务器上的 Git - GitLab](https://git-scm.com/book/zh/v2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84-Git-GitLab)
  
 # 3.git使用
+
+## 
 
 # 4.svn迁移至git
 
